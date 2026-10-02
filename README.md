@@ -82,4 +82,4 @@ My technical background is in security operations and vulnerability management, 
 
 ## Planned policies
 
-TBC
+In Progress - To Be Confirmed 
