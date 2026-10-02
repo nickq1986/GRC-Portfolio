@@ -43,7 +43,7 @@ For 247E&G to be able to implement an effective Information Security Management 
 
 ![Embedded image](<part-05/ISO 27001 For Energy Company Part B - Copy - image 02.png>)
 
-## Figure 1
+_Figure 1_
 
 The Senior Leadership Committee are the most senior staff within 247E&G, their responsibilities extend to mandating the scope and direction of the ISMS and they are ultimately responsible for the overall governance and accountability of the organisation.
 
