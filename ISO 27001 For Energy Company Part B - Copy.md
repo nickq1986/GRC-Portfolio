@@ -117,11 +117,4 @@ The mechanisms for monitoring shall comply with clause 9.1 of the standard, to m
 
 *Figure 2: The PDCA Cycle for continuous improvement of the ISMS (Source: Disterer, G. 2013, p.95)*
 
-The formalised internal audit shall then be compiled with external audits and any other relevant supporting information to form the basis of management reviews to be periodically determined by the senior management committee typically every 6 -12 months according to  . This will enable gaps to be identified in any of the current controls already implemented and highlight the need for any additional controls to be implemented in support of the ISMS objectives. Therefore, aligning the ISMS with the Plan-Do-Check-Act cycle for continuous improvement through corrective actions (Figure 2)
-
-
-Morris, A. (2023) ‘Information Governance and Cyber Security Part B'. Information Governance Module, Master of Science in Cyber Security Technologies. Unpublished
-
-*Network and Information Security Regulations 2018. *Available at: https://www.legislation.gov.uk/uksi/2018/506/made. Accessed: 5th April 2023)
-
-Watkins, S.G. (2022) *ISO/IEC 27001:2022: An Introduction to Information Security and the ISMS Standard*. 2nd edition. Cambridgeshire: IT Governance Publishing
+The formalised internal audit shall then be compiled with external audits and any other relevant supporting information to form the basis of management reviews to be periodically determined by the senior management committee typically every 6 -12 months according to  . This will enable gaps to be identified in any of the current controls already implemented and highlight the need for any additional controls to be implemented in support of the ISMS objectives. Therefore, aligning the ISMS with the Plan-Do-Check-Act cycle for continuous improvement through corrective actions (Figure 2).
