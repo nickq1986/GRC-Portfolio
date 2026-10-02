@@ -42,7 +42,9 @@ Processing activities of third parties handling customer information with legall
 For 247E&G to be able to implement an effective Information Security Management System (ISMS), it is imperative the key roles and responsibilities are clearly defined within the organisation (According to figure 1) – this also ensures strict compliance with the standard, the framework 247E&G has chosen to use, whilst enabling 247E&G to set clear strategic objectives to protect the confidentiality, integrity and availability of customer data which will be stored and managed on the web portal
 
 ![Embedded image](<part-05/ISO 27001 For Energy Company Part B - Copy - image 02.png>)
+
 Figure 1
+
 The Senior Leadership Committee are the most senior staff within 247E&G, their responsibilities extend to mandating the scope and direction of the ISMS and they are ultimately responsible for the overall governance and accountability of the organisation.
 
 Chief Information Security Officer (CISO) is the role responsible for ensuring all relevant activities of the ISMS are undertaken, including but not limited to; the risk management process, being the custodian of 247E&Gs information assets and governing the policies of where all employees should be adhering too to be compliant with regulatory and legal obligations.
