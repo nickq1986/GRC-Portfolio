@@ -117,21 +117,6 @@ The mechanisms for monitoring shall comply with clause 9.1 of the standard, to m
 
 The formalised internal audit shall then be compiled with external audits and any other relevant supporting information to form the basis of management reviews to be periodically determined by the senior management committee typically every 6 -12 months according to  . This will enable gaps to be identified in any of the current controls already implemented and highlight the need for any additional controls to be implemented in support of the ISMS objectives. Therefore, aligning the ISMS with the Plan-Do-Check-Act cycle for continuous improvement through corrective actions (Figure 2)
 
-## Table of References
-
-*Data Protection Act 2018 available at: https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted (Accessed 4th April) *
-
-*Disterer, G. (2013). 'ISO/IEC 27000, 27001 and 27002 for Information Security Management'. Journal of Information Security, 2013, 92-100. Available at: https://www.semanticscholar.org/paper/ISO-IEC-27000%2C-27001-and-27002-for-Information-Disterer/444e8aacda5f06d2a6c5197c89567638eaccb677 (Accessed: 5th April 2023)*
-
-*Electricity Act 1989. *Available at: https://publications.parliament.uk/pa/cm200001/cmbills/076/2001076.htm (Accessed 4th April 2023)
-
-ISO/IEC (2017a) 27001 *Information Technology - Security Techniques - Information Security Management Systems - Requirements (ISO/IEC 27001:13). *Available at: https://bsol.bsigroup.com/PdfViewer/Viewer?pid=000000000030347472 (Accessed: 4th April 2023)
-
-ISO/IEC (2017b) *27002 Information Technology - Security Techniques - Code of Practice for Information Security Controls. *Available at: https://bsol.bsigroup.com/PdfViewer/Viewer?pid=000000000030347481 (Accessed: 5th April 2023)
-
-ISO/IEC (2016) *27004 Information Security - Security Techniques - Information Security Management - Monitoring, Measurement, Analysis and Evaluation*. Available at: https://bsol.bsigroup.com/PdfViewer/Viewer?pid=000000000030286028 (Accessed 4th April 2023)
-
-ISO (2018) *31000 Risk Management Guidelines. *Available at: https://bsol.bsigroup.com/PdfViewer/Viewer?pid=000000000030315447 (Accessed 4th April 2023)
 
 Morris, A. (2023) ‘Information Governance and Cyber Security Part B'. Information Governance Module, Master of Science in Cyber Security Technologies. Unpublished
 
