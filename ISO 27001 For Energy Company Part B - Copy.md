@@ -115,6 +115,6 @@ The mechanisms for monitoring shall comply with clause 9.1 of the standard, to m
 
 ![The PDCA Cycle for continuous improvement of the ISMS](<part-05/ISO 27001 For Energy Company Part B - Copy - image 01.png>)
 
-*Figure 2: The PDCA Cycle for continuous improvement of the ISMS (Source: Disterer, G. 2013, p.95)*
+_Figure 2_
 
 The formalised internal audit shall then be compiled with external audits and any other relevant supporting information to form the basis of management reviews to be periodically determined by the senior management committee typically every 6 -12 months according to  . This will enable gaps to be identified in any of the current controls already implemented and highlight the need for any additional controls to be implemented in support of the ISMS objectives. Therefore, aligning the ISMS with the Plan-Do-Check-Act cycle for continuous improvement through corrective actions (Figure 2).
