@@ -1,4 +1,4 @@
-﻿# Nicholas Quinn | GRC Portfolio
+﻿# Nicholas Quinn | GRC Portfolio 1 Academic Analysis and Design
 
 This portfolio brings together academic projects in governance, risk, compliance, and cybersecurity. Across numerous case studies, I explore how to identify and assess risk, select and justify controls, assign accountability, and make security decisions understandable to an organization.
 
@@ -62,9 +62,26 @@ Together, the projects show how I approach GRC as an ongoing process: understand
 
 ## What I would improve next
 
-
+The projects so far focus on analysis and design. The next step is turning decisions into policy that people can follow, which is the focus of GRC Portfolio 2: Policy Writing. I also plan to update the framework work to NIST CSF 2.0 and ISO/IEC 27001:2022, and to add a worked example of an internal audit.
 
 ## Scope and responsible use
 
 These documents are academic and portfolio work based on case-study scenarios. They are not independent audits, certifications, production security assessments, or implementation guarantees. Recommendations should be adapted to an organization’s actual environment, risk appetite, and applicable requirements before use.
 
+# Nicholas Quinn | GRC Portfolio 2 
+
+# Nicholas Quinn | GRC Portfolio 2: Policy Writing
+
+Portfolio 1 focuses on risk assessment, control selection and governance analysis. This second portfolio focuses on the step that turns those decisions into something an organization can follow: writing clear, usable policy.
+
+It will be a set of sample information security and governance policies written for fictional organizations. Each policy is written to be read by the people who have to follow it, with the control objectives, responsibilities and enforcement stated plainly.
+
+**Status:** In progress. Completed policies are marked below and linked once published.
+
+## Why I'm building it
+
+My technical background is in security operations and vulnerability management, and my academic work covers frameworks, risk and governance. What I have not yet done in a workplace is write policy. This portfolio is how I am building that skill in the open: choosing a standard, deciding what a policy should and should not say, and showing the reasoning.
+
+## Planned policies
+
+TBC
