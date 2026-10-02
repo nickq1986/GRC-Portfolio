@@ -68,8 +68,6 @@ The projects so far focus on analysis and design. The next step is turning decis
 
 These documents are academic and portfolio work based on case-study scenarios. They are not independent audits, certifications, production security assessments, or implementation guarantees. Recommendations should be adapted to an organization’s actual environment, risk appetite, and applicable requirements before use.
 
-# Nicholas Quinn | GRC Portfolio 2 
-
 # Nicholas Quinn | GRC Portfolio 2: Policy Writing
 
 Portfolio 1 focuses on risk assessment, control selection and governance analysis. This second portfolio focuses on the step that turns those decisions into something an organization can follow: writing clear, usable policy.
