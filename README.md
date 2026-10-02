@@ -1,6 +1,6 @@
 ﻿# Nicholas Quinn | GRC Portfolio
 
-This portfolio brings together academic projects in governance, risk, compliance, and cybersecurity. Across six case studies, I explore how to identify and assess risk, select and justify controls, assign accountability, and make security decisions understandable to an organization.
+This portfolio brings together academic projects in governance, risk, compliance, and cybersecurity. Across numerous case studies, I explore how to identify and assess risk, select and justify controls, assign accountability, and make security decisions understandable to an organization.
 
 I built these projects to turn course concepts into practical examples and to develop a connected view of GRC work: from understanding an organization’s context, through risk analysis and control selection, to treatment, oversight, and future improvement.
 
@@ -16,7 +16,7 @@ An information governance and cybersecurity assessment covering organizational s
 
 ### 2. ISO 27001 for an Energy Company — Part B
 
-A continuation focused on implementing the response: responsibilities, control justification, a risk treatment plan, and monitoring mechanisms.
+A collaborative continuation with academic peers focused on implementing the response: responsibilities, control justification, a risk treatment plan, and monitoring mechanisms.
 
 **Why I built it:** Risk analysis is useful only when it supports decisions and follow-through. This project develops the link between identified risks, selected controls, accountable owners, and ongoing oversight.
 
@@ -62,13 +62,7 @@ Together, the projects show how I approach GRC as an ongoing process: understand
 
 ## What I would improve next
 
-- Add a concise executive brief to each project with scope, assumptions, key risks, decisions, and recommended actions.
-- Make risk-to-control traceability easier to review by linking each risk to its control, owner, evidence, test method, treatment status, and residual risk.
-- Standardize risk scoring definitions and explain how likelihood and impact ratings lead to prioritization.
-- Validate technical recommendations in a controlled lab or cloud sandbox, and include dated configuration evidence and diagrams where appropriate.
-- Record the framework and control-set versions used in each project, then refresh mappings and references as those sources change.
-- Extend the AI governance work with practical lifecycle controls for data quality, model validation, human oversight, privacy, security, and ongoing performance monitoring.
-- Keep improving the presentation and accessibility of diagrams, tables, and supporting evidence so each project is easy to navigate and assess.
+
 
 ## Scope and responsible use
 
