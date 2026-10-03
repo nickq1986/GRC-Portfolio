@@ -1,24 +1,6 @@
 # NIST CSF and CIS controls for a Software Development Company
 
-Computer Security 
 
-By 
-
-Nicholas Quinn
-
-22073641
-
-Northumbria University
-
-Master Of Science 
-
-Cyber Security Technologies 
-
-Word Count
-
-4377
-
-11/10/2023
 
 ## <u>Executive Summary </u>
 
