@@ -12,7 +12,7 @@ Supervised By
 
 xxxx xxxx 
 
-Module: Computing and Digital Technologies Project LD7083FLZ31
+Module: Computing and Digital Technologies Project 
 
 Northumbria University
 
@@ -26,7 +26,7 @@ Submission Date: 15/01/25
 
 I would like to express my deepest gratitude to the following individuals whose guidance, support, and encouragement have been instrumental in my academic journey over the past two years during my MSc studies.
 
-First and foremost, I would like the thank Dr. Usman Javed Butt whose insightful guidance has been invaluable throughout various modules and as my supervisor for this dissertation project. As my first major academic endeavour, higher education has at times been a daunting challenge for me. However, Dr. Butt’s calm, encouraging and professional instructional manner played a key role in maintaining my motivation, focus, and belief in my ability. For this, I am deeply grateful.
+First and foremost, I would like the thank Dr. xxxx whose insightful guidance has been invaluable throughout various modules and as my supervisor for this dissertation project. As my first major academic endeavour, higher education has at times been a daunting challenge for me. However, Dr. Butt’s calm, encouraging and professional instructional manner played a key role in maintaining my motivation, focus, and belief in my ability. For this, I am deeply grateful.
 
 I would also like to acknowledge the Third Battalion, the Parachute Regiment for their flexibility in managing my workload which has enabled me to maintain a consistent focus on my studies. I hope that the successful completion of this dissertation reflects the high standards of our great unit.
 
@@ -613,7 +613,7 @@ Please ensure that your project meets the conditions of the existing ethics appl
 | Student Name: |  |
 | --- | --- |
 | Nicholas Quinn |  |
-| Supervisor Name: Usman Butt |  |
+| Supervisor Name: xxxx xxxx |  |
 | Ethics application you are amending (check box): | ☐   Low-risk Lab-based research<br>☐   Low Risk Secondary Data Science project<br>☐   Medium Risk Secondary Data Science project from the private domain required membership<br>☐   Questionnaire/ survey Study<br>☒   Interview Study or other Usability Study |
 
 Introduction to the project: *Treat like an introduction to the study. Why is your proposed study important? What has already been done on the topic? How does your proposed study ‘fit’ with the current literature and what does it add? What is the aim of the proposed study? Make reference to appropriate studies.*
@@ -676,6 +676,6 @@ Permission letters
 
 Data collection tools
 
-| Student’s Name and sign<br>N.Quinn <br>Nicholas Quinn w22073641  | Date  |
+| Student’s Name and sign<br>N.Quinn <br>Nicholas Quinn xxxxx  | Date  |
 | --- | --- |
-| Supervisor’s name and sign <br>*Usman Butt*<br>(Name) Usman Butt | Date<br>30/10/2024 |
+| Supervisor’s name and sign <br>xxxUsma xxxx*<br>(Name) xxxx | Date<br>30/10/2024 |
