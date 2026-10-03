@@ -8,11 +8,9 @@ By
 
 Nicholas Quinn 
 
-22073641
-
 Supervised By 
 
-Dr Usman Javed Butt 
+xxxx xxxx 
 
 Module: Computing and Digital Technologies Project LD7083FLZ31
 
