@@ -1,24 +1,5 @@
 # Networking Controls For a Healthcare Company
 
-Computer Networks and Security
-
-By
-
-Nicholas Quinn
-
-22073641
-
-Northumbria University 
-
-Master of Science 
-
-Cyber Security Technologies 
-
-Word Count 
-
-4374 words 
-
-28/07/23
 
 ## <u>Executive Summary</u>
 
