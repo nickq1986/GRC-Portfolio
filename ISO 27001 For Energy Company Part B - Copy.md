@@ -1,34 +1,5 @@
 # ISO 27001 For Energy Company Part B - Copy
 
-Information Governance and Cyber Security Part B
-
-By
-
-Nicholas Quinn
-
-22073641
-
-Nikoleta Darmenska
-
-22075397
-
-Adam Morris
-
-22062561
-
-Northumbria University
-
-Master of Science
-
-Cyber Security Technology
-
-January 2023
-
-Tutor: Usman Javed Butt
-
-Word Count:
-
-2500 words
 
 ## Table of Figures
 
@@ -41,8 +12,8 @@ Figure 2: The PDCA Cycle for continuous improvement of the ISMS (Source: Distere
 | Author | Contribution |
 | --- | --- |
 | Nicholas Quinn | Task 1: The information security policies should include Introduction, purpose, scope |
-| Adam Morris | Task 2: Identification and allocation of roles and responsibilities, accountable for ensuring legal, regulatory, and contractual obligations in the context of a given scenario. |
-| Nikoleta Darmenska | Task 3: Information Governance Policy Framework with recommendations of minimum 8 controls to establish an Information Security Management System for a given context |
+| xxx xxxx| Task 2: Identification and allocation of roles and responsibilities, accountable for ensuring legal, regulatory, and contractual obligations in the context of a given scenario. |
+| xxxx xxxx | Task 3: Information Governance Policy Framework with recommendations of minimum 8 controls to establish an Information Security Management System for a given context |
 | Nicholas Quinn | Implementation plan and monitoring mechanisms to address security threats and mitigate security vulnerabilities in the context of a given scenario |
 
 ## Introduction
