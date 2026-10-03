@@ -1,25 +1,5 @@
 # Cloud Security Controls for a Travel Company
 
-Big Data and Cloud Security
-
-By
-
-Nicholas Quinn
-
-22073641
-
-Northumbria University
-
-Master of Science
-
-Cyber Security Technology
-
-Word Count Part A – 3071 Words
-
-Word Count Part B – 1314 Words
-
-03/07/23
-
 ## Executive Summary
 
 Like most companies of AT’s size and market share, AT is prone to risk. However, the recent management report indicates a lack of effective governance and satisfactory controls in place to mitigate this risk.
