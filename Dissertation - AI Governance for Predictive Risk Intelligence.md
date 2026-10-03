@@ -22,16 +22,6 @@ Cyber Security Technologies
 
 Submission Date: 15/01/25
 
-## Acknowledgements
-
-I would like to express my deepest gratitude to the following individuals whose guidance, support, and encouragement have been instrumental in my academic journey over the past two years during my MSc studies.
-
-First and foremost, I would like the thank Dr. xxxx whose insightful guidance has been invaluable throughout various modules and as my supervisor for this dissertation project. As my first major academic endeavour, higher education has at times been a daunting challenge for me. However, Dr. Butt’s calm, encouraging and professional instructional manner played a key role in maintaining my motivation, focus, and belief in my ability. For this, I am deeply grateful.
-
-I would also like to acknowledge the Third Battalion, the Parachute Regiment for their flexibility in managing my workload which has enabled me to maintain a consistent focus on my studies. I hope that the successful completion of this dissertation reflects the high standards of our great unit.
-
-Finally, I would like to thank my partner Laura for her unwavering support and for the sacrifices she has made to support our family while I pursued my studies. I dedicate this dissertation to my daughters, whose presence in my life has been a constant source of inspiration and a reminder of the importance of lifelong development.
-
 ## List of Figures
 
 Figure 1: ISO/IEC 38507 modification of ISO/IEC  38500 Model for Governance of IT (Source: ISO/IEC 38507:2022)	8
