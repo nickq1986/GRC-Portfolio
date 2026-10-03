@@ -1,28 +1,6 @@
 # ISO 27001 For Energy Company
 
-Information Governance and Cyber Security Part A
-
-By
-
-Nicholas Quinn
-
-22073641
-
-Northumbria University
-
-Master of Science
-
-Cyber Security Technology
-
-January 2023
-
-Tutor: Usman Javed Butt
-
-Word Count:
-
-2500 words
-
-Executive Summary
+# Executive Summary
 
 247E&G is a family-owned limited company, with its HQ located in London. It operates in the UK and therefor the scale of the business is comprised of its customer base within major domestic cities and its stakeholders – predominantly regional and national transmission networks. Connectivity, is a key aspect of the current business model, harmonising its operations with its stakeholders. However, recent environmental challenges have highlighted inefficiencies, regarding connectivity at the business output level, affecting its customers base posing concerns over the risk of revenue loss. The main challenge to the current business model is rising cost of energy prices. The effects of geopolitical and macroeconomic events on energy costs, and the impact of these costs on the price of the company’s deliverables, propose a clear risk of business loss in a highly competitive domestic energy market. Another challenge stems from a customer relations management (CRM) perspective. Current economic instability, resulting in public anxiety concerning the ‘energy crises’ has created an ever-greater demand for even family owned limited companied to maintain channels of communication and interfaces with its customer base, to deal with a daily, overwhelming influx of customer queries. 247E&G aims to introduce measures, intended to manage the cost of its deliverables, and enhance its services. This strategy will be achieved following the successful completion of the following objectives:
 
