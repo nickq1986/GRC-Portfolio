@@ -10,7 +10,6 @@
 
 > 𝐀𝐜𝐜𝐞𝐩𝐭𝐚𝐛𝐥𝐞 𝐔𝐬𝐞 𝐏𝐨𝐥𝐢𝐜𝐲, 𝟒.𝟑: ePHI must not be entered into any system that has not been approved by Security and covered by a Business Associate Agreement (BAA) where required.
 
-
 𝐖𝐡𝐚𝐭 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐚𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐨𝐨𝐥
 - The free tier's terms allow user inputs to be used to improve the vendor's models
 - No BAA is available on the free tier
@@ -22,3 +21,15 @@
 3. 𝐘𝐨𝐮𝐫 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧: approve, deny, or approve with conditions. If conditions, list them.
 4. 𝐘𝐨𝐮𝐫 𝐫𝐞𝐩𝐥𝐲 𝐭𝐨 𝐭𝐡𝐞 𝐇𝐞𝐚𝐝 𝐨𝐟 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠: 200 words maximum, no jargon, and offer a way forward rather than just a "no."
 𝐵𝑜𝑛𝑢𝑠 𝑝𝑜𝑖𝑛𝑡 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑏𝑒𝑠𝑡 𝑖𝑑𝑒𝑎 𝑡ℎ𝑎𝑡 𝑠𝑜𝑙𝑣𝑒𝑠 𝑀𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔'𝑠 𝑝𝑟𝑜𝑏𝑙𝑒𝑚 𝑤𝑖𝑡ℎ𝑜𝑢𝑡 𝑎𝑛𝑦 𝑝𝑎𝑡𝑖𝑒𝑛𝑡 𝑑𝑎𝑡𝑎 𝑙𝑒𝑎𝑣𝑖𝑛𝑔 𝑁𝑜𝑟𝑡ℎ𝑤𝑖𝑛𝑑 𝑎𝑡 𝑎𝑙𝑙.
+
+𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐅𝐨𝐫𝐦𝐚𝐭 (𝐜𝐨𝐩𝐲 𝐭𝐡𝐢𝐬)
+```
+Path: [GRC]
+1. [Deliverable 1]
+2. [Deliverable 2]
+3. [Deliverable 3]
+4. [Deliverable 4]
+What I found hardest:
+[One or two sentences. This helps me shape next week.]
+
+
