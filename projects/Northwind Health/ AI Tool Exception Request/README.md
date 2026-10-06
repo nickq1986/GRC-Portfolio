@@ -26,7 +26,7 @@
  
 Path: [GRC]
 
-1. [The combining patient's first name, appointment type, clinic, and date is ePHI. Sections 164.514(b) of the HIPPA privacy rule, otherwise known as the "Safe Harbour" method for de-identification mandates the removal of 18 types of identifiers. The marketing teams exception request includes the patients name strictly violates identifier #1 (Names) and Appointment Date: Violates Identifier #3 (All elements of dates).  ]
+1. [The combining patient's first name, appointment type, clinic, and date is ePHI. Sections 164.514(b) of the HIPPA privacy rule, otherwise known as the "Safe Harbour" method for de-identification mandates the removal of 18 types of identifiers. The marketing teams exception request includes the patients name strictly violates identifier #1 (Names) and patients appointment Date: Violates Identifier #3 (All elements of dates).  ]
 
 3. [Deliverable 2]
 4. [Deliverable 3]
