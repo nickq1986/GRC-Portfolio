@@ -33,6 +33,8 @@ Path: [GRC]
 | People  | Hardware | Software/Data | Information | Non-tangible |   
  -----------------------------------------------------------------
 |         |          |               |             |              | 
+--------------------------------------------------------------------
+
 5. [Deliverable 3]
 6. [Deliverable 4]
 What I found hardest:
