@@ -23,8 +23,9 @@
 𝐵𝑜𝑛𝑢𝑠 𝑝𝑜𝑖𝑛𝑡 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑏𝑒𝑠𝑡 𝑖𝑑𝑒𝑎 𝑡ℎ𝑎𝑡 𝑠𝑜𝑙𝑣𝑒𝑠 𝑀𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔'𝑠 𝑝𝑟𝑜𝑏𝑙𝑒𝑚 𝑤𝑖𝑡ℎ𝑜𝑢𝑡 𝑎𝑛𝑦 𝑝𝑎𝑡𝑖𝑒𝑛𝑡 𝑑𝑎𝑡𝑎 𝑙𝑒𝑎𝑣𝑖𝑛𝑔 𝑁𝑜𝑟𝑡ℎ𝑤𝑖𝑛𝑑 𝑎𝑡 𝑎𝑙𝑙.
 
  𝐒𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐅𝐨𝐫𝐦𝐚𝐭 
-```
+ 
 Path: [GRC]
+
 1. [The combining patient's first name, appointment type, clinic, and date is ePHI. Sections 164.514(b) of the HIPPA privacy rule, otherwise known as the "Safe Harbour" method for de-identification mandates the removal of 18 types of identifiers. Therefore, the marketing teams exception request to copy and past the explicitly Protected Health Information (PHI) identifiers of the patients name and appointment date would a direct breach of the privacy rule.  ]
 2. [Deliverable 2]
 3. [Deliverable 3]
